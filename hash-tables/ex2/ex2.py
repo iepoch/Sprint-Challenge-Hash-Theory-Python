@@ -26,3 +26,4 @@ def reconstruct_trip(tickets, length):
         key = val
 
     return route
+
